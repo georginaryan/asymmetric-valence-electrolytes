@@ -47,17 +47,17 @@ Generates Figure 2 from numerical solution data (CSV files).
 `Figure3.nb`  
 Uses numerical data (CSVs) and functions from AnalyticValence.wl to generate Figure 3.
 
-`Figure4.nb` 
+`Figure4.nb`  
 Generates figures using r=2 function from AnalyticValence.wl as the weighted current imbalance J varies.
 
 `Figure5.nb`  
 Generates figures using r=2 function from AnalyticValence.wl as the weighted total current I varies.
 
-`Figure6.nb` 
+`Figure6.nb`  
 Generates figures using r=1/2,1,2 functions from AnalyticValence.wl and r=1/3,3 from AsymmetricValence.wl.
 
 `Figure7.m`  
-Generates the phase diagram of the weighted total current I versus the weighted current imbalance J. 
+Generates the phase diagram of the weighted total current I versus the weighted current imbalance J.
 
 ## Running the Code
 To reproduce all figures from scratch, first generate the numerical data by running `python scripts/generate_time_data.py` from the project root, which produces the CSV files in the `data/` directory. 
