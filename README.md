@@ -1,7 +1,9 @@
 # Asymmetric Valence Binary Electrolytes
-Code accompanying the paper: **"Intermediate-Current Transitions in Asymmetric-Valence Binary Electrolytes"**
+Code accompanying the paper: **"Intermediate-Current Transitions in Asymmetric-Valence Binary Electrolytes"**  
 Code author: Georgina Ryan, contact georgina.ryan@maths.ox.ac.uk  
-Affiliation: University of Oxford  Date: 22/04/2026
+Affiliation: University of Oxford  
+Date: 22/04/2026
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/f4ea4bfd-80d0-4707-aa23-bf5ec993a3fb" />
 
 ## Overview
 This repository contains the analytical and numerical code used to generate the figures in the accompanying paper.
@@ -9,7 +11,7 @@ This repository contains the analytical and numerical code used to generate the 
 The project combines:
 - **Python** for numerical simulation of the time-dependent Poisson–Nernst–Planck (PNP) system  
 - **Mathematica** for asymptotic calculations (involving both analytical and numerical methods) and figure generation  
-- **MATLAB** for production of Figure 7.
+- **MATLAB** for production of Figure 7
 
 All figures from the paper can be reproduced with this code. 
 
