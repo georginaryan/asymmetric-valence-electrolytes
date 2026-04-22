@@ -48,6 +48,7 @@ Generates Figure 2 from numerical solution data (CSV files).
 Uses numerical data (CSVs) and functions from AnalyticValence.wl to generate Figure 3.
 
 `Figure4.nb` 
+
 Generates figures using r=2 function from AnalyticValence.wl as the weighted current imbalance J varies.
 
 `Figure5.nb`  
