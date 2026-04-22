@@ -8,7 +8,7 @@ This repository contains the analytical and numerical code used to generate the 
 
 The project combines:
 - **Python** for numerical simulation of the time-dependent Poisson–Nernst–Planck (PNP) system  
-- **Mathematica** for asymptotic calculations (involving both analytic and numerical methods) and figure generation  
+- **Mathematica** for asymptotic calculations (involving both analytical and numerical methods) and figure generation  
 - **MATLAB** for production of Figure 7.
 
 All figures from the paper can be reproduced with this code. 
@@ -53,7 +53,7 @@ Generates figures using r=2 function from AnalyticValence.wl as the weighted cur
 `Figure5.nb`  
 Generates figures using r=2 function from AnalyticValence.wl as the weighted total current I varies.
 
-`Figure6.nb`  
+`Figure6.nb` 
 Generates figures using r=1/2,1,2 functions from AnalyticValence.wl and r=1/3,3 from AsymmetricValence.wl.
 
 `Figure7.m`  
